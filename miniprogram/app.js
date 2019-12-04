@@ -214,10 +214,10 @@ App({
     onLoadStatus: true,
     activeCategoryId: null,
 
-    globalBGColor: '#00afb4',
-    bgRed: 0,
-    bgGreen: 175,
-    bgBlue: 180,
+    globalBGColor: '#0277ff',
+    bgRed: 2,
+    bgGreen: 119,
+    bgBlue: 255,
     userInfo: null,
     subDomain: "tggtest",// 商城后台个性域名tgg
     version: "2.0.6",

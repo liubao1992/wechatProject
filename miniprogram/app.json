@@ -27,13 +27,12 @@
     "backgroundTextStyle": "light",
     "navigationBarTitleText": "WeChat",
     "navigationBarTextStyle": "black",
-    "navigationBarBackgroundColor": "#00afb4",
-    "backgroundColor": "#00afb4"
-    // "backgroundColor": "#0277ff"
+    "navigationBarBackgroundColor": "#0277ff",
+    "backgroundColor": "#0277ff"
   },
   "tabBar": {
     "color": "#929292",
-    "selectedColor": "#00afb4",
+    "selectedColor": "#0277ff",
     "borderStyle": "black",
     "backgroundColor": "#fff",
     "box-shadow": "0 0 4px 0",

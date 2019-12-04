@@ -1,5 +1,5 @@
 {
-  "navigationBarTitleText": "发现优惠",
+  "navigationBarTitleText": "翼想天开",
   "enablePullDownRefresh": true,
   "usingComponents": {
     "wxc-icon": "../../dist/packages/@minui/wxc-icon/dist/index",

@@ -13,6 +13,7 @@ Page({
   },
   onLoad:function(){
     var that = this
+    console.log(app.globalData)
     that.setData({
       background_color: app.globalData.globalBGColor,
       bgRed: app.globalData.bgRed,
